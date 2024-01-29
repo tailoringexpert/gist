@@ -1,3 +1,4 @@
+-- Select a requirement of a dedicated project tailoring
 WITH RECURSIVE
 tr AS (
     SELECT CHAPTER_ID, PARENTCHAPTER_ID, NAME 
