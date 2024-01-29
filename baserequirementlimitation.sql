@@ -1,3 +1,4 @@
+-- Select limitation of a baserequirement
 SELECT * 
   FROM IDENTIFIER_LIMITATION 
   WHERE IDENTIFIER_ID = (
