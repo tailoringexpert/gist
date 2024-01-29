@@ -1,3 +1,4 @@
+-- Select a requirement of a dedicated base catalog 
 WITH RECURSIVE
 br AS (
     SELECT CHAPTER_ID, PARENTCHAPTER_ID, NAME
